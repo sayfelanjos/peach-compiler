@@ -1,0 +1,10 @@
+# ninja log v6
+25	66	1725225700114001825	CMakeFiles/peach_compiler.dir/helpers/buffer.c.o	355fbc1e8922d861
+1	25	1725225700090668553	CMakeFiles/peach_compiler.dir/compiler.c.o	a17c934ef75ece97
+20	41	1725227513925762593	peach_compiler	16154ea12fa87e0c
+1	41	1725225700090668553	CMakeFiles/peach_compiler.dir/cprocess.c.o	ef6773f539ac9ebc
+0	17	1725333420799811887	build.ninja	9065e03bc6df69f2
+1	20	1725227513905763081	CMakeFiles/peach_compiler.dir/test.c.o	3c3d32b74f560850
+24	96	1725225700114001825	CMakeFiles/peach_compiler.dir/helpers/vector.c.o	af78af93b93b4b
+1	41	1725227058814238154	CMakeFiles/peach_compiler.dir/main.c.o	6e4af44fee14e10c
+24	47	1725212649425600887	c_compiler	c180a6dee123d573

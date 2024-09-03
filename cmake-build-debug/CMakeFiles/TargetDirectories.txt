@@ -1,0 +1,3 @@
+/home/saymon.anjos/CLionProjects/peach-compiler/cmake-build-debug/CMakeFiles/peach_compiler.dir
+/home/saymon.anjos/CLionProjects/peach-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/saymon.anjos/CLionProjects/peach-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
